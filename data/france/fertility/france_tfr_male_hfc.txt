@@ -1,0 +1,17 @@
+Country,Region,Urban,Origin,Year1,Year2,AgeDef,Vitality,  TFR,  MAB,Collection,SourceType,   RefCode,Note
+    FRA,     .,    .,     ., 1998, 1998,   ACY,       1,1.762,32.15,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 1999, 1999,   ACY,       1,1.785,32.18,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2000, 2000,   ACY,       1,1.864,32.22,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2001, 2001,   ACY,       1,1.863,32.25,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2002, 2002,   ACY,       1,1.855,32.34,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2003, 2003,   ACY,       1,1.864,32.44,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2004, 2004,   ACY,       1,1.891,32.49,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2005, 2005,   ACY,       1,1.915,32.60,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2006, 2006,   ACY,       1,1.980,32.66,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2007, 2007,   ACY,       1,1.961,32.71,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2008, 2008,   ACY,       1,1.998,32.74,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2009, 2009,   ACY,       1,2.003,32.78,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2010, 2010,   ACY,       1,2.009,32.86,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2011, 2011,   ACY,       1,1.991,32.96,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2012, 2012,   ACY,       1,1.991,33.02,        RE,  estimate,    FRA_12,   .
+    FRA,     .,    .,     ., 2013, 2013,   ACY,       1,1.975,33.12,        RE,  estimate,    FRA_12,   .
